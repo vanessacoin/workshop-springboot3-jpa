@@ -1,5 +1,5 @@
 # Projeto web services com Spring Boot e JPA / Hibernate
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/vanessacoin/workshop-springboot3-jpa/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/badge/LICENSE-MIT-BLUE?style=for-the-badge)](https://github.com/vanessacoin/workshop-springboot3-jpa/blob/main/LICENSE) 
 
 ![Badge Versão Finalizada](https://img.shields.io/badge/STATUS-VERSAO%20FINALIZADA-BLUE?style=for-the-badge)
 
