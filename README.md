@@ -5,7 +5,7 @@
 
 # Sobre o projeto
 
-O projeto consiste em uma aplicação back-end construída durante o cusrso **Java COMPLETO Programação Orientada a Objetos + Projetos** organizado pelo professor **Nelio Alves** 
+O projeto consiste em uma aplicação back-end construída durante o curso **Java COMPLETO Programação Orientada a Objetos + Projetos** organizado pelo professor **Nelio Alves** 
 na plataforma Udemy, que tem como alvo explorar a utilização do banco de dados de teste H2, entender e aplicar o modelo de domínio, criar relacionamentos entre as entidades, 
 salvar os dados no H2 e por fim, realizar a consulta, atualização e deleção dos dados, assim como realizar o tratamento de exceções.
 
