@@ -20,6 +20,8 @@ salvar os dados no H2 e por fim, realizar a consulta, atualização e deleção 
 - CRUD - Create, Retrieve, Update, Delete
 - Tratamento de exceções
 
+## Postman
+![Postman](https://github.com/vanessacoin/assets/blob/main/SpringBootJPA/Postman.png)
 
 ## Visão das tabelas no banco de dados H2
 ![Visão das tabelas no banco de dados H2](https://github.com/vanessacoin/assets/blob/main/SpringBootJPA/VisaoH2.png)
